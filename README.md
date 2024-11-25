@@ -13,7 +13,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Home lab virtual machine setup         | <a href="https://github.com/tretoby/Home-Lab">Splunk</a>|
+| Home lab virtual machine setup using AWS         | <a href="https://github.com/tretoby/Home-Lab">Home Lab set up</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">project 1</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">project 2</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">project 3</a>|
