@@ -55,7 +55,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am n
 
 ## Projects
 - <a href="https://github.com/tretoby/Home-Lab">Home lab setup</a>
-- project 1
+- <a href="https://github.com/tretoby/Home-Lab">Phishing campaign</a>
 - project 2
 - project 3
 - project 4
