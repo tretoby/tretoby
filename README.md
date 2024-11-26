@@ -14,7 +14,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am n
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing campaign using (AWS)        | <a href="https://github.com/tretoby/Home-Lab">Phishing campaign</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://github.com/tretoby/Azure-Goat">project 1</a>|
+| Exploit vulnerabilities within Microsoft Azure|<a href="https://github.com/tretoby/Azure-Goat">Azure Goat</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">project 2</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">project 3</a>|
 | Case Management with TheHive                  | <a href="https://google.com">project 4</a>|
