@@ -3,8 +3,7 @@
 
 **Aspiring Security Operations Center (SOC) Level 1 Analyst**
 
-I'm a dedicated and enthusiastic cybersecurity enthusiast with a passion for protecting digital assets. I'm eager to apply my skills in a fast-paced SOC environment, where I can contribute to incident response, threat detection, and security monitoring. 
-
+I am a dedicated and driven cybersecurity enthusiast with a strong passion for safeguarding digital assets. I am eager to leverage my skills in a dynamic Security Operations Center (SOC) environment, contributing to incident response, threat detection, and proactive security monitoring to enhance organizational resilience against cyber threats.
 ## Objective
 
 Over the last few years I have developed a passion for cybersecurity, and I am now eager to make a career change and transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
