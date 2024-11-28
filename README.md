@@ -15,7 +15,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 |Real-time Threat Intelligence with Azure Sentinel| <a href="https://github.com/tretoby/Azure-Goat">Microsoft Sentinel</a>|
 |Network Packet Capture in Azure with Network Watcher and Wireshark        | <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>|
 | Local System Vulnerability Scanning Using Nessus    | <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>|
-| Case Management with TheHive                  | <a href="https://github.com/tretoby/theHive">TheHive</a>|
+| Case Management with TheHive                  | <a href="https://github.com/tretoby/Nmap">Nmap</a>|
 
 
 ## Tools
@@ -55,7 +55,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 - <a href="https://github.com/tretoby/Azure-Goat">Microsoft Sentinel</a>
 - <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>
 -  <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>
-- project 5
+- <a href="https://github.com/tretoby/Nmap">Nmap</a>
 
 <!--
 **tretoby/tretoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
