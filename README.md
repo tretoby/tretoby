@@ -53,9 +53,8 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 ## Projects
 - <a href="https://github.com/tretoby/Home-Lab">Phishing Campaign set up</a>
 - <a href="https://github.com/tretoby/Azure-Goat">Microsoft Sentinel</a>
-- project 2
-- project 3
-- project 4
+- <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>
+-  <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>
 - project 5
 
 <!--
