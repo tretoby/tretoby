@@ -13,7 +13,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 |-----------------------------------------------|----------------------------|
 | Phishing campaign using (AWS)        | <a href="https://github.com/tretoby/Home-Lab">Phishing campaign</a>|
 |Real-time Threat Intelligence with Azure Sentinel| <a href="https://github.com/tretoby/Azure-Goat">Microsoft Sentinel</a>|
-|Network Packet Capture in Azure with Network Watcher and Wireshark        | <a href="https://google.com">network watcher/wireshark</a>|
+|Network Packet Capture in Azure with Network Watcher and Wireshark        | <a href="https://github.com/tretoby/Network-Watcher-Wireshark">network watcher/wireshark</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">project 3</a>|
 | Case Management with TheHive                  | <a href="https://google.com">project 4</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">project 5</a>|
