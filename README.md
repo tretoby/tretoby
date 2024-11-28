@@ -15,8 +15,8 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 |Real-time Threat Intelligence with Azure Sentinel| <a href="https://github.com/tretoby/Azure-Goat">Microsoft Sentinel</a>|
 |Network Packet Capture in Azure with Network Watcher and Wireshark        | <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>|
 | Local System Vulnerability Scanning Using Nessus    | <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>|
-| Case Management with TheHive                  | <a href="https://google.com">project 4</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">project 5</a>|
+| Case Management with TheHive                  | <a href="https://github.com/tretoby/theHive">TheHive</a>|
+
 
 ## Tools
 
