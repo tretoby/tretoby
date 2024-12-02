@@ -58,6 +58,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 - <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>
 -  <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>
 - <a href="https://github.com/tretoby/Nmap">Nmap</a>
+<a href="https://github.com/tretoby/Elastic">Elastic Stack/CyberChef</a>
 
 <!--
 **tretoby/tretoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
