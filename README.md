@@ -16,7 +16,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 |Network Packet Capture in Azure with Network Watcher and Wireshark        | <a href="https://github.com/tretoby/networkwatcher-wireshark">network watcher/wireshark</a>|
 | Local System Vulnerability Scanning Using Nessus    | <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>|
 | Network Discovery and Vulnerability Assessment with Nmap                  | <a href="https://github.com/tretoby/Nmap">Nmap</a>|
-
+| Implement and optimize an Elastic Stack (Elasticsearch, Logstash, and Kibana) solution                | <a href="">Elastic</a>|
 
 ## Tools
 
