@@ -23,9 +23,8 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://www.wireshark.org/">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/-Nessus-D9230F?&style=for-the-badge&logo=Nessus&logoColor=white" />
+ 
     
 
   
