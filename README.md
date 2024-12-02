@@ -24,6 +24,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-D9230F?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-4B4B4B?&style=for-the-badge&logo=CyberChef&logoColor=white" />
  
     
 
