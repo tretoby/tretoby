@@ -20,6 +20,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 | Monitoring Network Traffic with Snort                  | <a href="">Snort</a>|
 | Packet Capture and Filtering with tcpdump                | <a href="">Tcpdump</a>|
 |Identifying Basic Network Anomalies with Zeek                  | <a href="">Zeek</a>|
+|Real-Time Threat Monitoring with Microsoft Defender         | <a href="">Microsoft Defender</a>|
 ## Tools
 
 ### Network
