@@ -59,6 +59,9 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 
 <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-AI--102-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
+
 
 
 </div>
