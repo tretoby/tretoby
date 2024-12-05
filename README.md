@@ -17,7 +17,7 @@ Over the last few years I have developed a passion for cybersecurity, and I am v
 | Local System Vulnerability Scanning Using Nessus    | <a href="https://github.com/tretoby/Nessus-vulnerability-scan">Nessus vulnerability scan</a>|
 | Network Discovery and Vulnerability Assessment with Nmap                  | <a href="https://github.com/tretoby/Nmap">Nmap</a>|
 | Implement and optimize an Elastic Stack (Elasticsearch, Logstash, and Kibana) solution                | <a href="https://github.com/tretoby/Elastic">Elastic Stack/CyberChef</a>|
-|Burpsuite to intercept webpage request                  | <a href="https://github.com/tretoby/BurpSuite">BurpSuite</a>|
+|Burpsuite to intercept webpage request                  | <a href="https://github.com/tretoby/BurpSuite-XML/blob/main/README.md">BurpSuite</a>|
  Monitoring Network Traffic with Snort                  | <a href="">Snort</a>|
 | Packet Capture and Filtering with tcpdump                | <a href="">Tcpdump</a>|
 |Identifying Basic Network Anomalies with Zeek                  | <a href="">Zeek</a>|
