@@ -11,6 +11,16 @@ I am a dedicated and driven cybersecurity professional with a strong passion for
 
 ---
 
+## Certifications  
+
+<div>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI--102-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>  
+
+---
+
 ## Objective  
 
 Over the last few years, I have cultivated a deep interest in cybersecurity. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
@@ -61,16 +71,6 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>  
-
----
-
-## Certifications  
-
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AI--102-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>  
 
 ---
