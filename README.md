@@ -84,7 +84,10 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 - [Nmap](https://github.com/tretoby/Nmap)  
 - [Elastic Stack/CyberChef](https://github.com/tretoby/Elastic)  
 - [Burp Suite](https://github.com/tretoby/BurpSuite-XML/blob/main/README.md)
-- [Snort](https://github.com/tretoby/Snort) 
+- [Snort](https://github.com/tretoby/Snort)
+- [tcpdump](https://github.com/tretoby/tcpdump)
+- [Zeek](https://github.com/tretoby/Zeek)
+- [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender)
 
 
 
