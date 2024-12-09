@@ -39,7 +39,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | Centralized Log Analysis with Elastic Stack   | [Elastic Stack/CyberChef](https://github.com/tretoby/Elastic) |
 | Intercepting Web Traffic with Burp Suite      | [Burp Suite](https://github.com/tretoby/BurpSuite-XML/blob/main/README.md) |
 | Monitoring Network Traffic with Snort         | [Snort](https://github.com/tretoby/Snort)          |
-| Packet Filtering and Capture with tcpdump     | [tcpdump](https://github.com/tretoby/Tcpdump)      |
+| Packet Filtering and Capture with tcpdump     | [tcpdump](https://github.com/tretoby/tcpdump)      |
 | Detecting Network Anomalies with Zeek         | [Zeek](https://github.com/tretoby/Zeek)            |
 | Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
 
