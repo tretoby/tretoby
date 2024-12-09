@@ -26,7 +26,14 @@ I am a dedicated and driven cybersecurity professional with a strong passion for
 Over the last few years, I have cultivated a deep interest in cybersecurity. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
 
 ---
+## Cloud Security projects with Azure
 
+| **Skill**                                     | **Associated Project**                              |
+|-----------------------------------------------|----------------------------------------------------|
+|Secure Virtual Network Design with Azure Firewall and NSGs            | [Azure Network Security](https://github.com/tretoby/Home-Lab) |
+
+
+---
 ## Skills  
 
 | **Skill**                                     | **Associated Project**                              |
