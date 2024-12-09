@@ -26,14 +26,6 @@ I am a dedicated and driven cybersecurity professional with a strong passion for
 Over the last few years, I have cultivated a deep interest in cybersecurity. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
 
 ---
-## Cloud Security projects with Azure
-
-| **Skill**                                     | **Associated Project**                              |
-|-----------------------------------------------|----------------------------------------------------|
-|Secure Virtual Network Design with Azure Firewall and NSGs            | [Azure Network Security](https://github.com/tretoby/Home-Lab) |
-
-
----
 ## Skills  
 
 | **Skill**                                     | **Associated Project**                              |
@@ -49,6 +41,15 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | Packet Filtering and Capture with tcpdump     | [tcpdump](https://github.com/tretoby/tcpdump)      |
 | Detecting Network Anomalies with Zeek         | [Zeek](https://github.com/tretoby/Zeek)            |
 | Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
+
+---
+
+## Cloud Security projects with Azure
+
+| **Skill**                                     | **Associated Project**                              |
+|-----------------------------------------------|----------------------------------------------------|
+|Secure Virtual Network Design with Azure Firewall and NSGs            | [Azure Network Security](https://github.com/tretoby/Azure-network-security) |
+
 
 ---
 
