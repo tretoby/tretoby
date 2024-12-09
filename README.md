@@ -44,7 +44,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 
 ---
 
-## Cloud Security projects with Azure
+## Cloud Security with Azure
 
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
