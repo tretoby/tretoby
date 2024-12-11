@@ -5,7 +5,7 @@
 
 ---
 
-**I am a dedicated and driven cybersecurity professional with a strong passion for safeguarding digital assets. My goal is to leverage my technical skills in a dynamic Security Operations Center (SOC) environment to contribute to incident response, threat detection, and proactive security monitoring. I aim to enhance organizational resilience against evolving cyber threats.  
+## I am a dedicated and driven cybersecurity professional with a strong passion for safeguarding digital assets. My goal is to leverage my technical skills in a dynamic Security Operations Center (SOC) environment to contribute to incident response, threat detection, and proactive security monitoring. I aim to enhance organizational resilience against evolving cyber threats.  
 
 ---
 
