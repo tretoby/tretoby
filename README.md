@@ -40,7 +40,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | Monitoring Network Traffic with Snort         | [Snort](https://github.com/tretoby/Snort)          |
 | Packet Filtering and Capture with tcpdump     | [tcpdump](https://github.com/tretoby/tcpdump)      |
 | Detecting Network Anomalies with Zeek         | [Zeek](https://github.com/tretoby/Zeek)            |
-| Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
+
 
 ---
 
@@ -48,6 +48,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
+| Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
 |Secure Virtual Network Design with Azure Firewall and NSGs            | [Azure Network Security](https://github.com/tretoby/Azure-network-security) |
 
 
