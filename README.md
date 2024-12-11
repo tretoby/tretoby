@@ -31,7 +31,6 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
 | Phishing Campaign Simulation (AWS)            | [Phishing Campaign](https://github.com/tretoby/Home-Lab) |
-| Real-Time Threat Intelligence with Azure Sentinel | [Microsoft Sentinel](https://github.com/tretoby/Azure-Goat) |
 | Network Packet Capture with Wireshark         | [Network Watcher/Wireshark](https://github.com/tretoby/networkwatcher-wireshark) |
 | Local Vulnerability Scanning with Nessus      | [Nessus Scan](https://github.com/tretoby/Nessus-vulnerability-scan) |
 | Network Discovery and Vulnerability Assessment | [Nmap](https://github.com/tretoby/Nmap)            |
@@ -49,6 +48,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
 | Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
+| Real-Time Threat Intelligence with Azure Sentinel | [Microsoft Sentinel](https://github.com/tretoby/Azure-Goat) |
 |Secure Virtual Network Design with Azure Firewall and NSGs            | [Azure Network Security](https://github.com/tretoby/Azure-network-security) |
 
 
