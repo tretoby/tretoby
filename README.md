@@ -48,6 +48,7 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 | Real-Time Threat Monitoring with Microsoft Defender | [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender) |
 | Real-Time Threat Intelligence with Azure Sentinel | [Microsoft Sentinel](https://github.com/tretoby/Azure-Goat) |
 |Identity management with Microsoft Entra ID            | [Microsoft Entra ID](https://github.com/tretoby/Identity-Management-with-Azure-AD) |
+|Azure Workload Identity Implementation           | [Microsoft Entra ID](https://github.com/tretoby/Azure-Workload-Identity-Implementation) |
 
 
 ---
@@ -95,7 +96,8 @@ Over the last few years, I have cultivated a deep interest in cybersecurity. I a
 - [tcpdump](https://github.com/tretoby/tcpdump)
 - [Zeek](https://github.com/tretoby/Zeek)
 - [Microsoft Defender](https://github.com/tretoby/Microsoft-Defender)
-- [Microsoft Entra ID](https://github.com/tretoby/Identity-Management-with-Azure-AD) |
+- [Microsoft Entra ID](https://github.com/tretoby/Identity-Management-with-Azure-AD)
+- [Microsoft Entra ID](https://github.com/tretoby/Azure-Workload-Identity-Implementation) 
 
 
 
