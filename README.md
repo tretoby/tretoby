@@ -5,7 +5,7 @@
 
 ---
 
-**I am a dedicated and driven cybersecurity professional with a strong passion for safeguarding digital assets. My goal is to leverage my technical skills in a dynamic Cloud Security environment to contribute to incident response, threat detection, and proactive security monitoring. I aim to enhance organizational resilience against evolving cyber threats.**  
+**I am a dedicated and driven information technology professional with a strong passion for optimizing and securing IT systems. I aim to leverage my skills in a dynamic environment, focusing on system administration, network management, troubleshooting, and implementing technology solutions to enhance organizational efficiency and resilience..**  
 
 ---
 
