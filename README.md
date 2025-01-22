@@ -21,7 +21,7 @@
 
 ## Objective  
 
-Over the last few years, I have cultivated a deep interest in cybersecurity. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
+Over the last few years, I have cultivated a deep interest in Information Technilogy. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
 
 ---
 ## Skills  
