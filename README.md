@@ -50,6 +50,15 @@ Over the last few years, I have cultivated a deep interest in Information Techni
 |Azure Workload Identity Implementation           | [Microsoft Entra ID](https://github.com/tretoby/Azure-Workload-Identity-Implementation) |
 | Real-Time Threat Monitoring with Microsoft Defender for cloud | [Microsoft Defender for cloud](https://github.com/tretoby/Microsoft-Defender) |
 
+
+
+## Networking Projects
+
+| **Skill**                                     | **Associated Project**                              |
+|-----------------------------------------------|----------------------------------------------------|
+| Cisco Packet Tracer EIGRP Configuration | [Dynamic routing configuration](https://github.com/tretoby/Cisco-EIRGP) |
+
+
 ---
 
 ## Tools  
