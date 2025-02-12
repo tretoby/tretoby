@@ -100,7 +100,8 @@ Over the last few years, I have cultivated a deep interest in Information Techni
 ---
 
 ## Projects  
-
+- [Dynamic routing configuration](https://github.com/tretoby/Cisco-EIRGP)
+- [Secure VLAN Configuration on Cisco Switches](https://github.com/tretoby/Vlan-Configuration)
 - [Phishing Campaign Setup](https://github.com/tretoby/Home-Lab)  
 - [Microsoft Sentinel](https://github.com/tretoby/Azure-Goat)  
 - [Network Watcher/Wireshark](https://github.com/tretoby/networkwatcher-wireshark)  
