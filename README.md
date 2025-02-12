@@ -26,6 +26,14 @@ Over the last few years, I have cultivated a deep interest in Information Techni
 ---
 ## Skills  
 
+## Networking Projects
+
+| **Skill**                                     | **Associated Project**                              |
+|-----------------------------------------------|----------------------------------------------------|
+| Cisco Packet Tracer EIGRP Configuration | [Dynamic routing configuration](https://github.com/tretoby/Cisco-EIRGP) |
+| VLAN Segmentation & Network Isolation | [Secure VLAN Configuration on Cisco Switches](https://github.com/tretoby/Vlan-Configuration) |
+
+
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
 | Phishing Campaign Simulation (AWS)            | [Phishing Campaign](https://github.com/tretoby/Home-Lab) |
@@ -52,11 +60,9 @@ Over the last few years, I have cultivated a deep interest in Information Techni
 
 
 
-## Networking Projects
 
-| **Skill**                                     | **Associated Project**                              |
-|-----------------------------------------------|----------------------------------------------------|
-| Cisco Packet Tracer EIGRP Configuration | [Dynamic routing configuration](https://github.com/tretoby/Cisco-EIRGP) |
+
+
 
 
 ---
