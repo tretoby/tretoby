@@ -33,6 +33,7 @@ Over the last few years, I have cultivated a deep interest in Information Techni
 | Cisco Packet Tracer EIGRP Configuration | [Dynamic routing configuration](https://github.com/tretoby/Cisco-EIRGP) |
 | VLAN Segmentation & Network Isolation | [Secure VLAN Configuration on Cisco Switches](https://github.com/tretoby/Vlan-Configuration) |
 
+---
 
 | **Skill**                                     | **Associated Project**                              |
 |-----------------------------------------------|----------------------------------------------------|
