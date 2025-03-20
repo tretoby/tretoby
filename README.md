@@ -5,9 +5,9 @@
 
 ---
 
-**I am an Information Technology professional with a passion for cloud computing, networking, and automation. Currently working as an IT Help Desk Technician, I specialize in troubleshooting, system administration, and network management to ensure smooth IT operations and excellent user support.
+*I am an Information Technology professional with a passion for cloud computing, networking, and automation. Currently working as an IT Help Desk Technician, I specialize in troubleshooting, system administration, and network management to ensure smooth IT operations and excellent user support.
 
-My goal is to transition into a Cloud Engineer role, where I can leverage my skills in Azure, networking (CCNA), and automation (PowerShell, Terraform) to build and maintain scalable cloud solutions. I am currently studying for the Microsoft Azure Administrator (AZ-104) certification and continuously expanding my hands-on experience with cloud infrastructure**  
+My goal is to transition into a Cloud Engineer role, where I can leverage my skills in Azure, networking (CCNA), and automation (PowerShell, Terraform) to build and maintain scalable cloud solutions. I am currently studying for the Microsoft Azure Administrator (AZ-104) certification and continuously expanding my hands-on experience with cloud infrastructure*  
 
 ---
 
