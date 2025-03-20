@@ -1,13 +1,11 @@
 # Hello, I'm Tre Toby  
-<a href="https://linkedin.com/in/tre-toby-8b5131292/">
+<a href="https://linkedin.com/in/tre-toby/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
 ---
 
-*I am an Information Technology professional with a passion for cloud computing, networking, and automation. Currently working as an IT Help Desk Technician, I specialize in troubleshooting, system administration, and network management to ensure smooth IT operations and excellent user support.
-
-My goal is to transition into a Cloud Engineer role, where I can leverage my skills in Azure, networking (CCNA), and automation (PowerShell, Terraform) to build and maintain scalable cloud solutions. I am currently studying for the Microsoft Azure Administrator (AZ-104) certification and continuously expanding my hands-on experience with cloud infrastructure*  
+**I am an Information Technology professional with a passion for cloud computing, networking, and automation. Currently working as an IT Help Desk Technician, I specialize in troubleshooting, system administration, and network management to ensure smooth IT operations and excellent user support. My goal is to transition into a Cloud Engineer role, where I can leverage my skills in Azure, networking (CCNA), and automation (PowerShell, Terraform) to build and maintain scalable cloud solutions. I am currently studying for the Microsoft Azure Administrator (AZ-104) certification and continuously expanding my hands-on experience with cloud infrastructure**   
 
 ---
 
@@ -20,12 +18,7 @@ My goal is to transition into a Cloud Engineer role, where I can leverage my ski
 </div>  
 
 ---
-
-## Objective  
-
-Over the last few years, I have cultivated a deep interest in Information Technilogy. I am highly motivated to transition into this field, making it my mission to secure digital environments and educate others about potential cyber risks.  
-
----
+  
 ## Skills  
 
 ## Networking Projects
