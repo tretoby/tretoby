@@ -55,6 +55,18 @@
 | Real-Time Threat Monitoring with Microsoft Defender for cloud | [Microsoft Defender for cloud](https://github.com/tretoby/Microsoft-Defender) |
 
 
+---
+
+
+## Microsoft Certified: Azure Administrator Associate Projects
+
+| **Skill**                                     | **Associated Project**                              |
+|-----------------------------------------------|----------------------------------------------------|
+
+
+
+
+
 
 
 
